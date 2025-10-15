@@ -1,2 +1,2 @@
-# ZapTalk---ChatApp
+# ZapTalk - ChatApp
 ReactNative with Java EE
